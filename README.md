@@ -5,12 +5,12 @@
 - 📫 How to reach me ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-!{me}[tokyoghoul](https://github.com/AppBlitz/AppLibros/assets/166270892/89b7c4fb-7dd7-4b5a-a344-fdbd6da33b62)
+ 
 <!---
 AppBlitz/AppBlitz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppBlitz)](https://github.com/anuraghazra/github-readme-stats)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AppBlitz_progress=true)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AppBlitz=contribs,prs)
