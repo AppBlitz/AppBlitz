@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p>
 	<img width="50%" align="right" src="https://github-readme-stats.vercel.app/api?username=AppBlitz&show_icons=true&hide_border=true" />
 <br />
-[Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)
+
 <br />
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
