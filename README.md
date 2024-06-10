@@ -17,8 +17,6 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-0%20secs-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-633-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-23.6%20thousand%20lines%20of%20code-blue)
@@ -27,7 +25,7 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 124.4 kB Used in GitHub's Storage 
  > 
-> 🏆 82 Contributions in the Year 2024
+> 🏆 88 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -35,45 +33,6 @@ You can click the Preview link to take a look at your changes.
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-🌆 Daytime                30 commits          █████░░░░░░░░░░░░░░░░░░░░   19.48 % 
-🌃 Evening                108 commits         ██████████████████░░░░░░░   70.13 % 
-🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Wednesday                4 commits           █░░░░░░░░░░░░░░░░░░░░░░░░   02.60 % 
-Thursday                 16 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-Friday                   12 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
-Saturday                 33 commits          █████░░░░░░░░░░░░░░░░░░░░   21.43 % 
-Sunday                   77 commits          ████████████░░░░░░░░░░░░░   50.00 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/Bogota
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -91,5 +50,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AppBlitz/AppBlitz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 04:59:58 UTC
+ Last Updated on 10/06/2024 05:05:14 UTC
 <!--END_SECTION:waka-->
