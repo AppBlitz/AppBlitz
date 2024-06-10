@@ -17,7 +17,5 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-```txt
-TypeScript
-```
+<figure><embed src="https://wakatime.com/share/@ace8a935-3dbd-4559-9a59-23a2180d599d/5cba6215-11dd-41e7-bfc7-8a53e4b688cd.svg"></embed></figure>
 <!--END_SECTION:waka-->
