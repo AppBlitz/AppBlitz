@@ -25,11 +25,11 @@ You can click the Preview link to take a look at your changes.
 
 > 📦 124.6 kB Used in GitHub's Storage 
  > 
-> 🏆 92 Contributions in the Year 2024
+> 🏆 91 Contributions in the Year 2024
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 9 Public Repositories 
+> 📜 8 Public Repositories 
  > 
 > 🔑 4 Private Repositories 
  > 
@@ -72,14 +72,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Java** 
+**I Mostly Code in Lua** 
 
 ```text
-Java                     4 repos             █████████░░░░░░░░░░░░░░░░   36.36 % 
-Lua                      3 repos             ███████░░░░░░░░░░░░░░░░░░   27.27 % 
-HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Lua                      3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+Java                     3 repos             ████████░░░░░░░░░░░░░░░░░   30.00 % 
+HTML                     1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+JavaScript               1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+C++                      1 repo              ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
 ```
 
 
@@ -89,5 +89,5 @@ C++                      1 repo              ██░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AppBlitz/AppBlitz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 01:32:16 UTC
+ Last Updated on 10/06/2024 01:50:56 UTC
 <!--END_SECTION:waka-->
