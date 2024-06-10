@@ -17,7 +17,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-50%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%20hrs-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-865-blue)
 
@@ -92,5 +92,5 @@ C++                      1 repo              ████░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/AppBlitz/AppBlitz/main/assets/bar_graph.png)
 
 
- Last Updated on 10/06/2024 16:26:14 UTC
+ Last Updated on 10/06/2024 17:35:18 UTC
 <!--END_SECTION:waka-->
