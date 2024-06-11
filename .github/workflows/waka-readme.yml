@@ -19,4 +19,4 @@ jobs:
           SHOW_TITLE: "true"
           SHOW_MASKED_TIME: "true"
           BLOCKS: "-#"
-          STOP_AT_OTHER: "true"
+        #  STOP_AT_OTHER: "true"
