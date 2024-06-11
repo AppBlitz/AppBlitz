@@ -20,3 +20,4 @@ jobs:
           SHOW_MASKED_TIME: "true"
           BLOCKS: "-#"
         #  STOP_AT_OTHER: "true"
+          SHOW_SHORT_INFO: "true"
