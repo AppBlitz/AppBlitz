@@ -18,12 +18,12 @@ You can click the Preview link to take a look at your changes.
 
 <!--START_SECTION:waka-->
 
-```rust
-From: 09 June 2024 - To: 10 June 2024
-
-Total Time: 23 mins
-
-JavaScript   23 mins         >>>>>>>>>>>>>>>>>>>>>>>>>   100.00 %
+```txt
+Java              2 hrs 47 mins   ███████████████████░░░░░░   75.93 %
+JavaScript        43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
+Groovy            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
+Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
 ```
 
 <!--END_SECTION:waka-->
