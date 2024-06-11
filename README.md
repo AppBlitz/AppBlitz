@@ -21,6 +21,8 @@ You can click the Preview link to take a look at your changes.
 ```txt
 From: 04 June 2024 - To: 11 June 2024
 
+Total Time: 3 hrs 41 mins
+
 Java              2 hrs 47 mins   ███████████████████░░░░░░   75.93 %
 JavaScript        43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
 Groovy            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
