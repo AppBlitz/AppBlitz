@@ -19,11 +19,11 @@ You can click the Preview link to take a look at your changes.
 <!--START_SECTION:waka-->
 
 ```txt
-Java              2 hrs 47 mins   ███████████████████░░░░░░   75.93 %
-JavaScript        43 mins         █████░░░░░░░░░░░░░░░░░░░░   19.57 %
-Groovy            4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.96 %
-Java Properties   3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
-Other             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Java              2 hrs 51 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.16 %
+Lua               2 hrs 45 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.32 %
+JavaScript        2 hrs 40 mins   ██████░░░░░░░░░░░░░░░░░░░   24.55 %
+norg              1 hr 33 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.34 %
+Markdown          23 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 %
 ```
 
 <!--END_SECTION:waka-->
