@@ -24,7 +24,7 @@ Passionate about programming
 
 ## 🌐 Socials:
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AppBlitz)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/8885tWVq)
+
  
 
 # 💻 Tech Stack:
