@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          17 hrs 13 mins  ████████████░░░░░░░░░░░░░   48.49 %
-Java         8 hrs 14 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.21 %
-norg         6 hrs 39 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.75 %
-JavaScript   1 hr 39 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.67 %
-Text         37 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.76 %
+Lua          11 hrs 5 mins   ██████████▒░░░░░░░░░░░░░░   40.67 %
+Java         8 hrs 9 mins    ███████▒░░░░░░░░░░░░░░░░░   29.89 %
+norg         5 hrs 20 mins   █████░░░░░░░░░░░░░░░░░░░░   19.61 %
+JavaScript   1 hr 16 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   04.68 %
+Text         30 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
 ```
 
 <!--END_SECTION:waka-->
