@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Java         3 hrs 52 mins   █████████████▓░░░░░░░░░░░   54.10 %
-norg         2 hrs 54 mins   ██████████░░░░░░░░░░░░░░░   40.53 %
-TypeScript   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 %
-JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.39 %
-TSConfig     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.57 %
+Java         3 hrs 52 mins   ███████████████░░░░░░░░░░   60.28 %
+norg         2 hrs 10 mins   ████████▒░░░░░░░░░░░░░░░░   33.74 %
+TypeScript   13 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 %
+JavaScript   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.55 %
+TSConfig     2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
 ```
 
 <!--END_SECTION:waka-->
