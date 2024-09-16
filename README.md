@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Java              5 hrs 12 mins   ███████████████▒░░░░░░░░░   61.19 %
-norg              1 hr 26 mins    ████▒░░░░░░░░░░░░░░░░░░░░   16.93 %
-HTTP              32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.31 %
-Python            30 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.04 %
-Java Properties   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.20 %
+Java              5 hrs 12 mins   ████████████████▒░░░░░░░░   65.22 %
+norg              1 hr 26 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.05 %
+HTTP              32 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
+Java Properties   21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 %
+TypeScript        16 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
 ```
 
 <!--END_SECTION:waka-->
