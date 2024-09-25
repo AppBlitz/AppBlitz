@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript        16 hrs 6 mins   █████████████▓░░░░░░░░░░░   54.41 %
-Java              11 hrs 43 mins  ██████████░░░░░░░░░░░░░░░   39.58 %
-Java Properties   57 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.21 %
-Kotlin            22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
-JSON              9 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 %
+TypeScript        17 hrs 28 mins  ██████████████▓░░░░░░░░░░   58.52 %
+Java              10 hrs 22 mins  ████████▓░░░░░░░░░░░░░░░░   34.75 %
+Java Properties   1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.65 %
+Kotlin            23 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.32 %
+gitignore         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.75 %
 ```
 
 <!--END_SECTION:waka-->
