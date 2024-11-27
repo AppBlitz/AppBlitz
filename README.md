@@ -40,9 +40,9 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   5 hrs 18 mins   ██████████████████████░░░   87.65 %
-PHP          44 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 %
-Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+TypeScript   5 hrs 7 mins    ██████████████████████▒░░   89.66 %
+PHP          34 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+Lua          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
 CSS          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
