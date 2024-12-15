@@ -40,9 +40,8 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-C++    1 hr 27 mins    █████████████████████░░░░   83.77 %
-HTML   16 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.31 %
-PHP    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+C++    55 mins         ███████████████████▓░░░░░   78.75 %
+HTML   15 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.25 %
 ```
 
 <!--END_SECTION:waka-->
