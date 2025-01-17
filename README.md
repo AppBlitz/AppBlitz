@@ -40,7 +40,8 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+HTML         13 mins         ██████████████▓░░░░░░░░░░   58.69 %
+JavaScript   9 mins          ██████████▒░░░░░░░░░░░░░░   41.31 %
 ```
 
 <!--END_SECTION:waka-->
