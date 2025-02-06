@@ -40,9 +40,9 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   2 hrs 28 mins   ██████████████▓░░░░░░░░░░   58.94 %
-Markdown     1 hr 28 mins    ████████▓░░░░░░░░░░░░░░░░   35.08 %
-HTML         15 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.99 %
+Markdown     1 hr 28 mins    ████████████▓░░░░░░░░░░░░   50.45 %
+JavaScript   1 hr 9 mins     ██████████░░░░░░░░░░░░░░░   39.72 %
+HTML         17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.83 %
 ```
 
 <!--END_SECTION:waka-->
