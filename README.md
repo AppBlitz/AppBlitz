@@ -40,10 +40,9 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-PHP      1 hr 43 mins    ████████████████▓░░░░░░░░   67.30 %
-XML      25 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.79 %
-Java     20 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.20 %
-Python   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.70 %
+PHP      1 hr 43 mins    ████████████████████▓░░░░   82.87 %
+Java     17 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.80 %
+Python   4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
