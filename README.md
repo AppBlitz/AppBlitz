@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-PHP              2 hrs 2 mins    ████████████████████▒░░░░   81.32 %
-Java             17 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.47 %
-Blade Template   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.95 %
-Python           4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
+PHP              2 hrs 6 mins    ████████████████████▓░░░░   83.15 %
+Java             18 mins         ███░░░░░░░░░░░░░░░░░░░░░░   12.38 %
+Blade Template   5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 %
 Other            0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.24 %
+gitignore        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
 ```
 
 <!--END_SECTION:waka-->
