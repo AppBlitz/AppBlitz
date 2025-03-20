@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 56 mins   ██████████████▒░░░░░░░░░░   57.16 %
-JavaScript   2 hrs 2 mins    ██████░░░░░░░░░░░░░░░░░░░   23.71 %
-Java         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.86 %
-HTML         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.38 %
-Kotlin       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Python       5 hrs           ███████████████▓░░░░░░░░░   63.00 %
+JavaScript   1 hr 23 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.56 %
+Java         35 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.46 %
+HTML         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
+Kotlin       14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.94 %
 ```
 
 <!--END_SECTION:waka-->
