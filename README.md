@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Python       4 hrs 33 mins   █████████████████░░░░░░░░   68.26 %
-Java         1 hr 16 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.19 %
-TypeScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Docker       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.79 %
-Kotlin       6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python       2 hrs 51 mins   ███████████▒░░░░░░░░░░░░░   45.25 %
+Java         2 hrs 28 mins   █████████▓░░░░░░░░░░░░░░░   39.30 %
+TypeScript   27 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.33 %
+Kotlin       15 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.98 %
+Docker       7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.89 %
 ```
 
 <!--END_SECTION:waka-->
