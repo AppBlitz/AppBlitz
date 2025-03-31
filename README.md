@@ -40,8 +40,8 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Java     3 hrs 31 mins   ███████████████████████░░   92.65 %
-Kotlin   16 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
+Java     4 hrs 29 mins   ███████████████████████▓░   94.14 %
+Kotlin   16 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.85 %
 XML      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
