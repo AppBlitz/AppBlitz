@@ -40,7 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-JSON   11 mins         █████████████████████████   100.00 %
+Lua          2 hrs 4 mins    ████████████████████▒░░░░   81.46 %
+JSON         11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.37 %
+Astro        7 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.81 %
+Java         6 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 %
+Docker       2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.88 %
 ```
 
 <!--END_SECTION:waka-->
