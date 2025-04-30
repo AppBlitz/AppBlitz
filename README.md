@@ -40,10 +40,10 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Python       20 mins         █████████████▒░░░░░░░░░░░   53.92 %
-TypeScript   14 mins         █████████▒░░░░░░░░░░░░░░░   37.44 %
-Other        2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.93 %
-HTTP         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Java     1 hr 7 mins     ███████████████▒░░░░░░░░░   61.80 %
+Python   40 mins         █████████▒░░░░░░░░░░░░░░░   37.22 %
+HTTP     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
+Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
 ```
 
 <!--END_SECTION:waka-->
