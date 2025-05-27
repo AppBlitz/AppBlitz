@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Java              4 hrs 12 mins   █████████░░░░░░░░░░░░░░░░   35.73 %
-Lua               2 hrs 49 mins   ██████░░░░░░░░░░░░░░░░░░░   23.94 %
-TypeScript        1 hr 8 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.77 %
-JavaScript        53 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.62 %
-Go                39 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.64 %
+Java              8 hrs 54 mins   ███████████▓░░░░░░░░░░░░░   46.08 %
+TypeScript        3 hrs 52 mins   █████░░░░░░░░░░░░░░░░░░░░   20.07 %
+Lua               2 hrs 49 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.58 %
+JavaScript        53 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Other             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.01 %
 ```
 
 <!--END_SECTION:waka-->
