@@ -40,11 +40,9 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Go           54 mins         ██████████████████████▒░░   89.87 %
-JSON         5 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   09.39 %
-TSConfig     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 %
-gosum        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 %
+JSON         5 mins          ████████████████████████░   95.79 %
+TSConfig     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
+TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
 ```
 
 <!--END_SECTION:waka-->
