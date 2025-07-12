@@ -40,9 +40,7 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-JSON         5 mins          ████████████████████████░   95.79 %
-TSConfig     0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.09 %
-TypeScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
