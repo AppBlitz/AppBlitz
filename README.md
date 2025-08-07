@@ -40,7 +40,7 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Go   55 mins         █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
