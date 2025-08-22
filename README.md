@@ -40,7 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Go   48 mins         █████████████████████████   100.00 %
+Go          1 hr 42 mins    ████████████████████░░░░░   79.55 %
+HTTP        9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.63 %
+Markdown    9 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 %
+gitignore   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
+Other       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.45 %
 ```
 
 <!--END_SECTION:waka-->
