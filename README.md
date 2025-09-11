@@ -40,10 +40,9 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     1 hr 41 mins    ███████████▓░░░░░░░░░░░░░   46.63 %
-SQL          1 hr 23 mins    █████████▓░░░░░░░░░░░░░░░   38.05 %
-Go           32 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.00 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Markdown     1 hr 41 mins    █████████████▓░░░░░░░░░░░   54.86 %
+SQL          1 hr 23 mins    ███████████▒░░░░░░░░░░░░░   44.77 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 %
 ```
 
 <!--END_SECTION:waka-->
