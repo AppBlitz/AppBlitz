@@ -40,8 +40,9 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   1 hr 41 mins    ███████████████▓░░░░░░░░░   63.00 %
-SQL        59 mins         █████████▒░░░░░░░░░░░░░░░   37.00 %
+Markdown   1 hr 41 mins    ██████████████████▒░░░░░░   73.99 %
+SQL        29 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.30 %
+Go         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.71 %
 ```
 
 <!--END_SECTION:waka-->
