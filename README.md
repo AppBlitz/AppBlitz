@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Python         6 hrs 53 mins   ███████████████░░░░░░░░░░   60.01 %
-Go             3 hrs 49 mins   ████████▒░░░░░░░░░░░░░░░░   33.29 %
-BibTeX         30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.39 %
-hastepreproc   8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
-Other          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+Python      6 hrs 36 mins   ████████████████░░░░░░░░░   64.05 %
+Go          3 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.15 %
+BibTeX      28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.60 %
+Other       2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+Markdown    2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.46 %
 ```
 
 <!--END_SECTION:waka-->
