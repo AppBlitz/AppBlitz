@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         3 hrs 5 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.19 %
-Markdown     2 hrs 49 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.97 %
-Python       1 hr 46 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.43 %
-Lua          1 hr 44 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.19 %
-Bash         1 hr 24 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.43 %
+Go           5 hrs 54 mins   ██████████░░░░░░░░░░░░░░░   40.09 %
+Rust         3 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.97 %
+Lua          1 hr 46 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+Bash         1 hr 24 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
+Markdown     1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.66 %
 ```
 
 <!--END_SECTION:waka-->
