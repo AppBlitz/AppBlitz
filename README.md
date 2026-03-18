@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Java         8 hrs 15 mins         ███████████▓░░░░░░░░░░░░░   46.09 %
-Rust         3 hrs 31 mins         █████░░░░░░░░░░░░░░░░░░░░   19.71 %
-HTTP         1 hr 35 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.89 %
-YAML         1 hr 34 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
-JavaScript   1 hr 15 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.00 %
+Java         6 hrs 47 mins         ███████████░░░░░░░░░░░░░░   43.48 %
+Rust         3 hrs 34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.86 %
+YAML         1 hr 46 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+JavaScript   1 hr 17 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.26 %
+HTTP         1 hr 3 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.73 %
 ```
 
 <!--END_SECTION:waka-->
