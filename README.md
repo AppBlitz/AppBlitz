@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript      6 hrs 19 mins         ████████████▓░░░░░░░░░░░░   51.13 %
-Rust            1 hr 22 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   11.05 %
-Cassandra CQL   1 hr 14 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.02 %
-Java            49 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-YAML            43 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
+JavaScript      6 hrs 9 mins          ███████████████░░░░░░░░░░   59.48 %
+Cassandra CQL   1 hr 14 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.98 %
+Java            46 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 %
+Rust            41 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
+HTTP            36 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.80 %
 ```
 
 <!--END_SECTION:waka-->
