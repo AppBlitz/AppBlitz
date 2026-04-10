@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Rust              17 hrs 42 mins        ████████████████▒░░░░░░░░   65.35 %
-Java              2 hrs 52 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.63 %
-Docker            1 hr 49 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.75 %
-Lua               1 hr 9 mins           █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 %
-gitignore         35 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
+Rust              13 hrs 44 mins        █████████████▓░░░░░░░░░░░   55.30 %
+Java              3 hrs 36 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
+Docker            1 hr 49 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
+Lua               1 hr 11 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.83 %
+Markdown          43 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.93 %
 ```
 
 <!--END_SECTION:waka-->
