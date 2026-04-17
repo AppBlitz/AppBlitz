@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         6 hrs 58 mins         ███████████████░░░░░░░░░░   60.08 %
-Java         1 hr 6 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.54 %
-TypeScript   1 hr 1 min            ██▒░░░░░░░░░░░░░░░░░░░░░░   08.82 %
-JavaScript   39 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Markdown     27 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 %
+Rust         8 hrs                 ███████████████████░░░░░░   75.75 %
+TypeScript   1 hr 2 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.89 %
+Java         23 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 %
+JSON         22 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.50 %
+Text         13 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
