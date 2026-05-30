@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         3 hrs 5 mins          ███████████████▓░░░░░░░░░   62.05 %
-TOML         1 hr 29 mins          ███████▒░░░░░░░░░░░░░░░░░   29.88 %
-Docker       18 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-JavaScript   2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-env          2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.72 %
+TOML         1 hr 8 mins           ███████████▒░░░░░░░░░░░░░   45.78 %
+Rust         27 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
+Astro        24 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
+TypeScript   16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
+JavaScript   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
 ```
 
 <!--END_SECTION:waka-->
