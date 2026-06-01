@@ -40,11 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-TOML         1 hr 8 mins           ███████████▒░░░░░░░░░░░░░   45.78 %
-Rust         27 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.20 %
-Astro        24 mins               ████░░░░░░░░░░░░░░░░░░░░░   16.47 %
-TypeScript   16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.96 %
-JavaScript   5 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.40 %
+TypeScript    1 hr 10 mins          ████████▒░░░░░░░░░░░░░░░░   33.09 %
+TOML          49 mins               █████▓░░░░░░░░░░░░░░░░░░░   23.04 %
+CSS           47 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.43 %
+Astro         24 mins               ███░░░░░░░░░░░░░░░░░░░░░░   11.45 %
+Image (svg)   12 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
 ```
 
 <!--END_SECTION:waka-->
