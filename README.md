@@ -40,9 +40,9 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Rust         2 hrs 21 mins         ███████████░░░░░░░░░░░░░░   43.44 %
-TypeScript   2 hrs 5 mins          █████████▓░░░░░░░░░░░░░░░   38.52 %
-CSS          58 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.03 %
+Rust         2 hrs 21 mins         █████████████▓░░░░░░░░░░░   54.66 %
+TypeScript   1 hr 50 mins          ██████████▓░░░░░░░░░░░░░░   42.56 %
+CSS          7 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.77 %
 Image        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
