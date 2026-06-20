@@ -40,8 +40,9 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   0 secs                ███████████████▓░░░░░░░░░   62.26 %
-Astro        0 secs                █████████▒░░░░░░░░░░░░░░░   37.74 %
+Lua          13 mins               ████████████████▒░░░░░░░░   64.85 %
+Astro        6 mins                ████████░░░░░░░░░░░░░░░░░   32.50 %
+JavaScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
 ```
 
 <!--END_SECTION:waka-->
