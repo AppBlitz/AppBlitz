@@ -40,9 +40,11 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          13 mins               ████████████████▒░░░░░░░░   64.85 %
-Astro        6 mins                ████████░░░░░░░░░░░░░░░░░   32.50 %
-JavaScript   0 secs                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Rust         17 mins               ███████████░░░░░░░░░░░░░░   43.50 %
+Lua          13 mins               ████████▒░░░░░░░░░░░░░░░░   33.47 %
+Astro        6 mins                ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
+TOML         1 min                 █▒░░░░░░░░░░░░░░░░░░░░░░░   04.89 %
+JavaScript   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
 ```
 
 <!--END_SECTION:waka-->
