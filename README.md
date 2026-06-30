@@ -40,8 +40,8 @@ Passionate about programming
 <!--START_SECTION:waka-->
 
 ```txt
-Rust   28 mins               ███████████████████████░░   91.58 %
-TOML   2 mins                ██░░░░░░░░░░░░░░░░░░░░░░░   08.42 %
+Rust   26 mins               ██████████████████████▓░░   91.20 %
+TOML   2 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   08.80 %
 ```
 
 <!--END_SECTION:waka-->
