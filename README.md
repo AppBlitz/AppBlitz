@@ -55,6 +55,22 @@ I am particularly passionate about operating systems, especially Linux. This int
 File management — organizing and handling file systems efficiently
 User permissions — managing access control and security at the OS level
 
+
+## owngvw
+### Medium 
+I share my knowledge on software development topics like Java, clean 
+coding practices, software architecture, and containerization. 
+Writing helps me learn deeper — and hopefully helps others too.
+
+![medium](https://medium.com/@FabianZapata)
+
+### Linkedin
+On this platform, I share industry content about programming best 
+practices, engage with posts from other developers, and repost the 
+articles I publish on Medium. It's a space where I enjoy exchanging 
+ideas and connecting with others who share my interests.
+
+![Linkedin](https://www.linkedin.com/in/carlos-fabi%C3%A1n-corrales-zapata-507a64339/)
 <!--START_SECTION:waka-->
 
 ```txt
