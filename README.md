@@ -56,7 +56,7 @@ File management — organizing and handling file systems efficiently
 User permissions — managing access control and security at the OS level
 
 
-## owngvw
+## Platforms where I share my knowledge 
 ### Medium 
 I share my knowledge on software development topics like Java, clean 
 coding practices, software architecture, and containerization. 
