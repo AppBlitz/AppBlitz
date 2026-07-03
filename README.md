@@ -37,7 +37,8 @@ Passionate about programming
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-Software developer 
+## Software developer 
+
 I am a software developer specializing in web development, with a strong interest in building reliable, well-structured systems. My technical toolkit includes:
 
 APIs — designing and working with interfaces that connect services and applications
@@ -47,7 +48,8 @@ PostgreSQL — relational database design and management
 Docker — containerization for consistent and portable development environments
 Networking — understanding of core networking concepts and protocols
 
-Operating Systems
+## Operating Systems
+
 I am particularly passionate about operating systems, especially Linux. This interest drives me to continuously deepen my understanding of how systems work at a lower level, including:
 
 File management — organizing and handling file systems efficiently
