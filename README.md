@@ -62,7 +62,7 @@ I share my knowledge on software development topics like Java, clean
 coding practices, software architecture, and containerization. 
 Writing helps me learn deeper — and hopefully helps others too.
 
-![medium](https://medium.com/@FabianZapata)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@FabianZapata)
 
 ### Linkedin
 On this platform, I share industry content about programming best 
@@ -70,7 +70,7 @@ practices, engage with posts from other developers, and repost the
 articles I publish on Medium. It's a space where I enjoy exchanging 
 ideas and connecting with others who share my interests.
 
-![Linkedin](https://www.linkedin.com/in/carlos-fabi%C3%A1n-corrales-zapata-507a64339/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-fabián-corrales-zapata-507a64339/)
 <!--START_SECTION:waka-->
 
 ```txt
