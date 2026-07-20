@@ -74,7 +74,9 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+YAML   2 mins                ████████████▒░░░░░░░░░░░░   49.38 %
+TOML   1 min                 █████████▒░░░░░░░░░░░░░░░   37.86 %
+Rust   0 secs                ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
 ```
 
 <!--END_SECTION:waka-->
