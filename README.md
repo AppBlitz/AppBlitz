@@ -74,8 +74,8 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-TOML   2 mins                ██████████████░░░░░░░░░░░   55.74 %
-Rust   2 mins                ███████████░░░░░░░░░░░░░░   44.26 %
+TOML   2 mins                ███████████████▓░░░░░░░░░   62.50 %
+Rust   1 min                 █████████▒░░░░░░░░░░░░░░░   37.50 %
 ```
 
 <!--END_SECTION:waka-->
