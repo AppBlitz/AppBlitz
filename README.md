@@ -74,10 +74,10 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-YAML     36 mins               ███████████████▒░░░░░░░░░   60.96 %
-Rust     10 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.13 %
-Bash     10 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.47 %
-Docker   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 %
+YAML     36 mins               █████████████████░░░░░░░░   67.68 %
+Bash     10 mins               █████░░░░░░░░░░░░░░░░░░░░   19.40 %
+Rust     4 mins                ██▒░░░░░░░░░░░░░░░░░░░░░░   09.10 %
+Docker   2 mins                █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
 ```
 
 <!--END_SECTION:waka-->
