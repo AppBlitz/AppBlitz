@@ -74,10 +74,11 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust     14 mins               ███████████████▓░░░░░░░░░   62.43 %
-TOML     7 mins                ████████░░░░░░░░░░░░░░░░░   32.28 %
-HTTP     0 secs                █░░░░░░░░░░░░░░░░░░░░░░░░   04.19 %
-Docker   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
+Rust     1 hr 8 mins           █████████████████████▒░░░   85.63 %
+TOML     8 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   10.06 %
+HTTP     2 mins                ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.63 %
+Bash     1 min                 ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.37 %
+Docker   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
 ```
 
 <!--END_SECTION:waka-->
