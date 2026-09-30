@@ -74,11 +74,11 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust        1 hr 6 mins           ███████████████▒░░░░░░░░░   61.37 %
-YAML        19 mins               ████▓░░░░░░░░░░░░░░░░░░░░   18.36 %
-gitignore   11 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.33 %
-TOML        7 mins                █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
-Bash        2 mins                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
+Rust        1 hr 6 mins           ██████████▓░░░░░░░░░░░░░░   42.47 %
+Docker      27 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.40 %
+YAML        26 mins               ████▒░░░░░░░░░░░░░░░░░░░░   17.15 %
+gitignore   16 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.35 %
+Bash        11 mins               █▓░░░░░░░░░░░░░░░░░░░░░░░   07.19 %
 ```
 
 <!--END_SECTION:waka-->
