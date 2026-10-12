@@ -21,12 +21,12 @@ You can click the Preview link to take a look at your changes.
 Passionate about programming
 
 
-## 🌐 Socials:
+## 🌐 Socials
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/AppBlitz)
 
  
 
-# 💻 Tech Stack:
+# 💻 Tech Stack
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=flat&logo=angular&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=flat&logo=spring&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
 
 ## 🏆 GitHub Trophies
@@ -57,6 +57,7 @@ User permissions — managing access control and security at the OS level
 
 
 ## Platforms where I share my knowledge 
+
 ### Medium 
 I share my knowledge on software development topics like Java, clean 
 coding practices, software architecture, and containerization. 
