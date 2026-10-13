@@ -75,10 +75,9 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-Rust       1 hr 56 mins          ███████████████████░░░░░░   76.31 %
-Markdown   23 mins               ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-TOML       11 mins               ██░░░░░░░░░░░░░░░░░░░░░░░   07.71 %
-HTML       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 %
+Rust       25 mins               ████████████████▒░░░░░░░░   64.69 %
+TOML       9 mins                ██████░░░░░░░░░░░░░░░░░░░   24.14 %
+Markdown   4 mins                ██▓░░░░░░░░░░░░░░░░░░░░░░   11.16 %
 ```
 
 <!--END_SECTION:waka-->
