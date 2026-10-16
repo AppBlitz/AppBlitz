@@ -75,8 +75,10 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-CSS    13 mins               ███████████████░░░░░░░░░░   59.54 %
-JSON   9 mins                ██████████░░░░░░░░░░░░░░░   40.46 %
+CSS    13 mins               ████████████▒░░░░░░░░░░░░   48.72 %
+JSON   9 mins                ████████▒░░░░░░░░░░░░░░░░   33.12 %
+Lua    4 mins                ████▒░░░░░░░░░░░░░░░░░░░░   17.57 %
+Rust   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
 ```
 
 <!--END_SECTION:waka-->
