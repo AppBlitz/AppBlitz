@@ -75,10 +75,8 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   34 mins               █████████████████████▓░░░   86.35 %
-Lua    4 mins                ███░░░░░░░░░░░░░░░░░░░░░░   12.21 %
-Text   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-Rust   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.41 %
+Bash   34 mins               ████████████████████████▓   98.82 %
+Text   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 %
 ```
 
 <!--END_SECTION:waka-->
