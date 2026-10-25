@@ -75,8 +75,8 @@ ideas and connecting with others who share my interests.
 <!--START_SECTION:waka-->
 
 ```txt
-Bash   57 mins               ████████████████████████▓   99.27 %
-Text   0 secs                ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.73 %
+Bash     32 mins               █████████████████████████   99.64 %
+Kotlin   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 %
 ```
 
 <!--END_SECTION:waka-->
